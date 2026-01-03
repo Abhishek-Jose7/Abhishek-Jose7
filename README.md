@@ -6,16 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Systems;Open+to+Collaboration" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- Full Stack Developer with strong backend focus  
-- AI / ML project builder (decision systems, automation, intelligence tools)  
-- Interested in scalable, real-world software systems  
-- Currently building advanced AI-driven platforms  
-
----
 
 ## 🛠️ Tech Stack
 
