@@ -59,16 +59,18 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Jose7&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Jose7&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Jose7&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Jose7&layout=compact&theme=tokyonight)
+
 
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abhishek-Jose7&theme=tokyonight&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Abhishek-Jose7&theme=tokyonight&no-frame=true)
+
 
 
 ---
